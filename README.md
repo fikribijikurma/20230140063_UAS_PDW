@@ -1,24 +1,19 @@
-# UAS_PDW – Sistem Manajemen Asisten dan Mahasiswa
 
-Repository ini berisi project UAS untuk mata kuliah **Pemrograman Web (PDW)** yang dibuat menggunakan **PHP** dan **MySQL**.
-
-## 📁 Struktur Folder & File
-- `asisten/` — Fitur untuk manajemen data asisten.
-- `mahasiswa/` — Fitur untuk manajemen data mahasiswa.
-- `uploads/materi/` — Folder untuk menyimpan materi yang diunggah.
-- `config.php` — Konfigurasi koneksi database.
-- `login.php`, `register.php`, `logout.php` — Sistem login dan registrasi pengguna.
-- `uaspdw.sql` — Struktur dan isi database MySQL untuk project ini.
-
-## 🚀 Cara Menjalankan Aplikasi
-1. Clone atau download repository ini.
-2. Jalankan **XAMPP/Laragon**, aktifkan Apache dan MySQL.
-3. Import file `uaspdw.sql` ke phpMyAdmin.
-4. Letakkan semua file ke folder `htdocs`.
-5. Buka browser dan akses via:  
-   `http://localhost/NAMA_FOLDER/login.php`
-
-## 👨‍💻 Developer
-- Nama: **Fikri Bijikurma**
-- NIM: **20230140063**
-- Mata Kuliah: **Pemrograman Web (PDW)**
+![Screenshot 2025-07-06 152937](https://github.com/user-attachments/assets/27d12274-03fa-415a-b5d5-b7888e672d65)
+![Screenshot 2025-07-06 152856](https://github.com/user-attachments/assets/aae61b0e-2b19-484a-82dd-722a5d4d612e)
+![Screenshot 2025-07-06 152803](https://github.com/user-attachments/assets/de29314d-a47c-47e9-af61-62d900e31ede)
+![Screenshot 2025-07-06 152340](https://github.com/user-attachments/assets/4f6a36d2-1b22-46d9-b482-dbd60397877d)
+![Screenshot 2025-07-06 151819](https://github.com/user-attachments/assets/970da65b-a449-4636-9ad8-314308b6bd9f)
+![Screenshot 2025-07-06 151806](https://github.com/user-attachments/assets/f4a5d32f-2303-456c-9803-4c39ece057b3)
+![Screenshot 2025-07-06 151622](https://github.com/user-attachments/assets/17d8b9b3-efd9-4db3-aaf0-881ca568efbd)
+![Screenshot 2025-07-06 151550](https://github.com/user-attachments/assets/4ebab24b-39fc-40f2-8220-ca7075864d24)
+![Screenshot 2025-07-06 151529](https://github.com/user-attachments/assets/0fcf405d-c7cf-4728-8ba1-b54c95084c32)
+![Screenshot 2025-07-06 151508](https://github.com/user-attachments/assets/fb06eabe-c0dc-42f8-a3cb-022fe27fe519)
+![Screenshot 2025-07-06 151442](https://github.com/user-attachments/assets/bf55f437-d287-4513-95b4-06ba180f4181)
+![Screenshot 2025-07-06 151358](https://github.com/user-attachments/assets/43a91712-ec78-4fdc-86f7-63340333d86f)
+![Screenshot 2025-07-06 151344](https://github.com/user-attachments/assets/37ca313c-4932-40f1-bec6-4d8c3c15bcc1)
+![Screenshot 2025-07-06 151330](https://github.com/user-attachments/assets/96d485c8-502d-4c35-973f-936f6ba3aad4)
+![Screenshot 2025-07-06 151306](https://github.com/user-attachments/assets/90993b82-85a5-4e2b-9440-47dbb7e38887)
+![Screenshot 2025-07-06 151243](https://github.com/user-attachments/assets/554d5e74-4f89-4cfb-bd60-da8afc248153)
+![Screenshot 2025-07-06 151229](https://github.com/user-attachments/assets/847b31c1-114d-4c64-a4a7-a67738fd35d0)
+![Screenshot 2025-07-06 153047](https://github.com/user-attachments/assets/ed4cc244-a7f9-442b-b506-243ce10d602c)
